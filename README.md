@@ -1,5 +1,6 @@
 # Stevenson Temp Automation
 Automated temperature reading system for Stevenson Screens using image processing and IoT, developed during internship at IMD, New Delhi.
+This repository contains the experimental source code and a sample dataset for demonstration. 
 
 ## Tech Stack
 - Python, OpenCV, NumPy
