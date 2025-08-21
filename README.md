@@ -5,7 +5,8 @@ Automated temperature reading system for Stevenson Screens using image processin
 ## Tech Stack
 - Python, OpenCV, NumPy
 - ESP32 (IoT)
-- Image Processing
+- Image Processing fundamentals
+- Raspberry Pi
 
 ## Features
 - Real-time image capture of thermometers
